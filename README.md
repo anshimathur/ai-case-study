@@ -3,14 +3,14 @@
 
 ## Overview and Origin
 
-* **Company Name**: Aiva (**A**rtificial **I**ntelligence **V**isual **A**rtist) Technologies
+* **Company Name**: Aiva (**A**rtificial **I**ntelligence **V**irtual **A**rtist) Technologies
 
 * **Founded:** 2016
 
 * **Founder:** Pierre Barreau
     * ***Co-founders:*** Jean-Baptiste Pizzetti and Etienne Brunet
 
-* The idea for this company came about when Pierre and the co-founders wanted to create a tool that could help the music generation process for producers, composers, and clients, especially within the film scores and game soundtracks fields. 
+* The idea for this *AI music generation* company came about when Pierre and the co-founders wanted to create a tool that could help the music generation process for producers, composers, and clients, especially within the film scores and game soundtracks fields. 
 
 * Aiva was funded through both venture capital and angel investors. They had raised over 1.2 million Euros in 2020 (Silicon, 2020). 
 
